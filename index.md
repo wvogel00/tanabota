@@ -1,26 +1,29 @@
-## Welcome to GitHub Pages
+## 棚ぼたへようこそ
 
-You can use the [editor on GitHub](https://github.com/wvogel00/tanabota/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+同人サークル棚ぼたは，電気刺激をはじめとする電子工作， イラスト， 競技プログラミング， 鉱物， 酒など，   
+興味を抱いたものにはとりあえず手を出し， 手を出したらアウトプット活動を行っていくスタイルをとる， ゆるーい段階です．
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 活動実績
+  - **new 技術書展9へ参加予定**
+  - 鉱物鑑定士補資格取得
+  - AtCoderで必ずACが取れるシステムの開発
+  - 競技プログラミング(atcoder)への参加
+  - CTFイベントへの参加(不定期)
+  - [LINEスタンプ制作・販売](https://store.line.me/stickershop/author/193829/ja)
 
-### Markdown
+### メンバー
+  - [hxf_vogel](https://twitter.com/hxf_vogel)
+      - Haskell
+      - 鉱物鑑定士補7級
+  - [shack](https://twitter.com/saku170)
+      - C#
+      - 鉱物鑑定士補8級
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Blog
+  - [棚ぼたのブログ](/blog.md)
+  - 個人ブログ( [hxf_vogel](https://wvogel00.hatenadiary.org/) )
 ```markdown
 Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
@@ -28,10 +31,3 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wvogel00/tanabota/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
