@@ -3,6 +3,9 @@
 同人サークル棚ぼたは，電気刺激をはじめとする電子工作， イラスト， 競技プログラミング， 鉱物， 酒など，   
 興味を抱いたものにはとりあえず手を出し， 手を出したらアウトプット活動を行っていくスタイルをとる， ゆるーい段階です．
 
+### What's New
+  - メンバー全員，鉱物鑑定士補に合格しました！
+
 ### 活動実績
   - **new 技術書展9へ参加予定**
   - 鉱物鑑定士補資格取得
@@ -22,12 +25,3 @@
 ### Blog
   - [棚ぼたのブログ](/blog.md)
   - 個人ブログ( [hxf_vogel](https://wvogel00.hatenadiary.org/) )
-```markdown
-Syntax highlighted code block
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
