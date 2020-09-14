@@ -4,10 +4,11 @@
 興味を抱いたものにはとりあえず手を出し， 手を出したらアウトプット活動を行っていくスタイルをとる， ゆるーい段階です．
 
 ### What's New
-  - メンバー全員，鉱物鑑定士補に合格しました！
+  - メンバーが増えました！ (2020/9/14)
 
 ### 活動実績
-  - **new 技術書展9へ参加予定**
+  - **new boothに[棚ぼた販売サイト](https://shop-tanabota.booth.pm/)を設営しました！**
+  - **new 技術書展9に”[恋する鉱物入門](https://techbookfest.org/product/5215144707620864)”を出品しました**
   - 鉱物鑑定士補資格取得
   - AtCoderで必ずACが取れるシステムの開発
   - 競技プログラミング(atcoder)への参加
@@ -21,6 +22,10 @@
   - [shack](https://twitter.com/saku170)
       - C#
       - 鉱物鑑定士補8級
+  - m.kazuki
+      - Python
+  - [go_zen_chu](https://twitter.com/go_zen_chu)
+      - Go
 
 ### Blog
   - [棚ぼたのブログ](/blog.md)
