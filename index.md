@@ -4,9 +4,11 @@
 興味を抱いたものにはとりあえず手を出し， 手を出したらアウトプット活動を行っていくスタイルをとる， ゆるーい段階です．
 
 ### What's New
-  - メンバーが増えました！ (2020/9/14)
+  - hxf_vogelが鉱物鑑定士6級に合格しました！（2020/10/29）
+  - shackがSAKE DIPLOMAに合格しました！（2020/10/27）
 
 ### 活動実績
+  - メンバーが増えました！ (2020/9/14)
   - **new boothに[棚ぼた販売サイト](https://shop-tanabota.booth.pm/)を設営しました！**
   - **new 技術書展9に”[恋する鉱物入門](https://techbookfest.org/product/5215144707620864)”を出品しました**
   - 鉱物鑑定士補資格取得
@@ -18,10 +20,10 @@
 ### メンバー
   - [hxf_vogel](https://twitter.com/hxf_vogel)
       - Haskell
-      - 鉱物鑑定士補7級
+      - 鉱物鑑定士補6級
   - [shack](https://twitter.com/saku170)
       - C#
-      - 鉱物鑑定士補8級
+      - 鉱物鑑定士補8級/SAKE DIPLOMA
   - m.kazuki
       - Python
   - [go_zen_chu](https://twitter.com/go_zen_chu)
