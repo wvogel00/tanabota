@@ -23,7 +23,8 @@
       - 鉱物鑑定士補6級
   - [shack](https://twitter.com/saku170)
       - C#
-      - 鉱物鑑定士補8級/SAKE DIPLOMA
+      - 鉱物鑑定士補8級
+      - SAKE DIPLOMA
   - m.kazuki
       - Python
   - [go_zen_chu](https://twitter.com/go_zen_chu)
