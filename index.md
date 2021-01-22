@@ -4,8 +4,8 @@
 興味を抱いたものにはとりあえず手を出し， 手を出したらアウトプット活動を行っていくスタイルをとる， ゆるーい段階です．
 
 ### What's New
+  - shack, hxf_vogelが天文宇宙検定2級に合格しました！（2021/01/21）
   - hxf_vogelが鉱物鑑定士6級に合格しました！（2020/10/29）
-  - shackがSAKE DIPLOMAに合格しました！（2020/10/27）
 
 ### 活動実績
   - メンバーが増えました！ (2020/9/14)
@@ -21,10 +21,12 @@
   - [hxf_vogel](https://twitter.com/hxf_vogel)
       - Haskell
       - 鉱物鑑定士補6級
+      - 天文宇宙検定2級（銀河博士）
   - [shack](https://twitter.com/saku170)
       - C#
       - 鉱物鑑定士補8級
       - SAKE DIPLOMA
+      - 天文宇宙検定2級（銀河博士）
   - m.kazuki
       - Python
   - [go_zen_chu](https://twitter.com/go_zen_chu)
